@@ -21,12 +21,12 @@ jobs:
       #     feed_list: "https://analyticsindiamag.com/author/praveen76/feed/"
       #     template: "<tr><td>$title</td><td>$url</td></tr"
 
-      - name: Pull in TowardsMachineLearning.Org posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "TowardsMachineLearning.Org"
-          feed_list: "https://towardsmachinelearning.org/feed/"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
+      # - name: Pull in TowardsMachineLearning.Org posts
+      #   uses: gautamkrishnar/blog-post-workflow@v1
+      #   with:
+      #     comment_tag_name: "TowardsMachineLearning.Org"
+      #     feed_list: "https://towardsmachinelearning.org/feed/"
+      #     template: "<tr><td>$title</td><td>$url</td></tr>"
           
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
