@@ -78,11 +78,21 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 ### :writing_hand: Blog Posts :
 
 ### TowardsMachineLearning.Org Posts:
-<!-- TowardsMachineLearning.Org:START --><tr><td>Vector Space Models &lpar; Word2Vec Model&rpar; simplified</td><td>https://towardsmachinelearning.org/vector-space-model-word2vec-model/</td></tr><tr><td>Face Detection using OpenCV</td><td>https://towardsmachinelearning.org/face-detection-using-opencv/</td></tr><tr><td>Important Functions of OpenCV</td><td>https://towardsmachinelearning.org/important-functions-of-opencv/</td></tr><tr><td>OpenCV: Beginning for the Computer Vision enthusiast</td><td>https://towardsmachinelearning.org/introduction-to-opencv/</td></tr><tr><td>What are Boosting Algorithms and how they work</td><td>https://towardsmachinelearning.org/boosting-algorithms/</td></tr><!-- TowardsMachineLearning.Org:END -->
+
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- TowardsMachineLearning.Org:START --><!-- TowardsMachineLearning.Org:END -->
+</table>
+
+
 
 ### Medium Posts:
 
-<!-- Medium:START --><tr><td>Chi-Square Test | COVID-19</td><td>https://medium.com/@praveenkumar.kumar76/chi-square-test-covid-19-a549eddade34?source=rss-f324798a1713------2</td></tr><!-- Medium:END -->
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- Medium:START --><!-- Medium:END -->
+</table>
+
 
 ### YouTube Posts:
 <!-- YouTube:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FncHcijU6tw"><img width="140px" src="http://img.youtube.com/vi/FncHcijU6tw/maxresdefault.jpg"></a></td>
