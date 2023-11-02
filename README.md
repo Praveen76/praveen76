@@ -17,7 +17,7 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 - 🔭 I’m currently working on: [LLM Projects](https://github.com/Praveen76/LLM-Projects-Archive)
 - 🌱 I’m currently learning : MLOps
-- 💬 Ask me about : #datascience #machinelearning #nlp #deeplearning #computervision #llms #mlops
+- 💬 Ask me about : DataScience, Machine Learning, NLP(Natural Language Processing), Deep Learning, Computer Vision, LLMs, MLOps
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Praveen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact:  MLOps is next big thing now.
@@ -81,7 +81,8 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- TowardsMachineLearning.Org:START --><!-- TowardsMachineLearning.Org:END -->
+  <!-- TowardsMachineLearning.Org:START -->
+  <!-- TowardsMachineLearning.Org:END -->
 </table>
 
 
@@ -90,7 +91,8 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- Medium:START --><!-- Medium:END -->
+  <!-- Medium:START -->
+  <!-- Medium:END -->
 </table>
 
 
