@@ -77,5 +77,12 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+<!-- TowardsMachineLearning.Org:START -->
+<!-- TowardsMachineLearning.Org:END -->
+
+<!-- Medium:START -->
+<!-- Medium:END -->
+
+<!-- YouTube:START -->
+<!-- YouTube:END -->
