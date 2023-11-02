@@ -14,11 +14,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://towardsmachinelearning.org/feed/"
-        
+        uses: gautamkrishnar/blog-post-workflow@v1        
         with:
           comment_tag_name: "Analytics Vidhya"
-          feed_list: "https://www.analyticsvidhya.com/user/praveen76/"
+          feed_list: "https://analyticsindiamag.com/author/praveen76/feed/"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
+        with:
+          comment_tag_name: "TowardsMachineLearning.Org"
+          feed_list: "https://towardsmachinelearning.org/feed/"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
+        with:
+          comment_tag_name: "Medium"
+          feed_list: "https://medium.com/feed/@praveenkumar.kumar76"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
+        with:
+          comment_tag_name: "YouTube"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCYkzKGRb249mVonjKEa-ZTQ"
           template: "<tr><td>$title</td><td>$url</td></tr>"
