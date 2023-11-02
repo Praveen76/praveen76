@@ -78,8 +78,11 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 ### :writing_hand: Blog Posts :
 
 
-<!-- TowardsMachineLearning.Org:START --><tr><td>Vector Space Models &lpar; Word2Vec Model&rpar; simplified</td><td>https://towardsmachinelearning.org/vector-space-model-word2vec-model/</td></tr><tr><td>Face Detection using OpenCV</td><td>https://towardsmachinelearning.org/face-detection-using-opencv/</td></tr><tr><td>Important Functions of OpenCV</td><td>https://towardsmachinelearning.org/important-functions-of-opencv/</td></tr><tr><td>OpenCV: Beginning for the Computer Vision enthusiast</td><td>https://towardsmachinelearning.org/introduction-to-opencv/</td></tr><tr><td>What are Boosting Algorithms and how they work</td><td>https://towardsmachinelearning.org/boosting-algorithms/</td></tr><!-- TowardsMachineLearning.Org:END -->
+<!-- TowardsMachineLearning.Org:START -->
+<!-- TowardsMachineLearning.Org:END -->
 
-<!-- Medium:START --><tr><td>Chi-Square Test | COVID-19</td><td>https://medium.com/@praveenkumar.kumar76/chi-square-test-covid-19-a549eddade34?source=rss-f324798a1713------2</td></tr><!-- Medium:END -->
+<!-- Medium:START -->
+<!-- Medium:END -->
 
-<!-- YouTube:START --><tr><td>Measuring the accuracy of the detection algorithm using IOU</td><td>https://www.youtube.com/watch?v=FncHcijU6tw</td></tr><tr><td>You Only Look Once Algorithm and it&#39;s history</td><td>https://www.youtube.com/watch?v=36_S0kaLNjE</td></tr><tr><td>Need of region proportion methods</td><td>https://www.youtube.com/watch?v=hH43zEAeaqs</td></tr><tr><td>Dataset, bounding box regressor, image pyramid</td><td>https://www.youtube.com/watch?v=OnnwuafZbEk</td></tr><tr><td>What we actually need for detection?</td><td>https://www.youtube.com/watch?v=xU1p_6uncG0</td></tr><!-- YouTube:END -->
+<!-- YouTube:START -->
+<!-- YouTube:END -->
