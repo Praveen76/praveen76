@@ -70,6 +70,13 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :writing_hand: Blog Posts :
 
+#### Analytics Vidhya(3M+ community) Posts
+ - [Introduction to ANOVA with COVID-19 Case Study](https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/)
+ - [Build a Face Mask Detector using RetinaNet Model](https://www.analyticsvidhya.com/blog/2020/08/how-to-build-a-face-mask-detector-using-retinanet-model/)
+ - [Beginner’s Guide to Focal Loss in Object Detection](https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-focal-loss-in-object-detection/)
+ - [Web Scraping using Selenium with Python](https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/)
+ 
+
 #### TowardsMachineLearning.Org Posts:
 <!-- TowardsMachineLearning.Org:START -->
 - [Vector Space Models &lpar; Word2Vec Model&rpar; simplified](https://towardsmachinelearning.org/vector-space-model-word2vec-model/)
