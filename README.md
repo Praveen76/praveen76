@@ -82,5 +82,14 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 <!-- Medium:START --><tr><td>Chi-Square Test | COVID-19</td><td>https://medium.com/@praveenkumar.kumar76/chi-square-test-covid-19-a549eddade34?source=rss-f324798a1713------2</td></tr><!-- Medium:END -->
 
-<!-- YouTube:START -->
+<!-- YouTube:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FncHcijU6tw"><img width="140px" src="http://img.youtube.com/vi/FncHcijU6tw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FncHcijU6tw">Measuring the accuracy of the detection algorithm using IOU</a><br/>Sep 19, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=36_S0kaLNjE"><img width="140px" src="http://img.youtube.com/vi/36_S0kaLNjE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=36_S0kaLNjE">You Only Look Once Algorithm and it&#39;s history</a><br/>Sep 19, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hH43zEAeaqs"><img width="140px" src="http://img.youtube.com/vi/hH43zEAeaqs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hH43zEAeaqs">Need of region proportion methods</a><br/>Sep 19, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OnnwuafZbEk"><img width="140px" src="http://img.youtube.com/vi/OnnwuafZbEk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OnnwuafZbEk">Dataset, bounding box regressor, image pyramid</a><br/>Sep 19, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xU1p_6uncG0"><img width="140px" src="http://img.youtube.com/vi/xU1p_6uncG0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xU1p_6uncG0">What we actually need for detection?</a><br/>Sep 19, 2021</td></tr></table>
 <!-- YouTube:END -->
