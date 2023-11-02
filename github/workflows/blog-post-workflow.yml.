@@ -17,3 +17,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/gautamkrishnar,https://towardsmachinelearning.org/feed/"
+        
+        with:
+          comment_tag_name: "Analytics Vidhya"
+          feed_list: "https://www.analyticsvidhya.com/user/praveen76/"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
