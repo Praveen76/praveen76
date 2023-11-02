@@ -81,6 +81,7 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### Medium Posts:
 <!-- Medium:START -->
+- [Chi-Square Test | COVID-19](https://medium.com/@praveenkumar.kumar76/chi-square-test-covid-19-a549eddade34?source=rss-f324798a1713------2)
 <!-- Medium:END -->
 
 
