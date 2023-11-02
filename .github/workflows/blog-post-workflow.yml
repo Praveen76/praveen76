@@ -33,7 +33,7 @@ jobs:
         with:
           comment_tag_name: "Medium"
           feed_list: "https://medium.com/feed/@praveenkumar.kumar76"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
+          # template: "<tr><td>$title</td><td>$url</td></tr>$newline"
           
       - name: Pull in YouTube posts
         uses: gautamkrishnar/blog-post-workflow@v1
