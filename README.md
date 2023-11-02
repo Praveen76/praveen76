@@ -69,14 +69,14 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :writing_hand: Blog Posts :
 
-#### Analytics Vidhya(3M+ community) Posts
+#### Posts on Analytics Vidhya(3M+ community):
  - [Introduction to ANOVA with COVID-19 Case Study](https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/)
  - [Build a Face Mask Detector using RetinaNet Model](https://www.analyticsvidhya.com/blog/2020/08/how-to-build-a-face-mask-detector-using-retinanet-model/)
  - [Beginner’s Guide to Focal Loss in Object Detection](https://www.analyticsvidhya.com/blog/2020/08/a-beginners-guide-to-focal-loss-in-object-detection/)
  - [Web Scraping using Selenium with Python](https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/)
  
 
-#### TowardsMachineLearning.Org Posts:
+#### Posts on TowardsMachineLearning.Org:
 <!-- TowardsMachineLearning.Org:START -->
 - [Vector Space Models &lpar; Word2Vec Model&rpar; simplified](https://towardsmachinelearning.org/vector-space-model-word2vec-model/)
 - [Face Detection using OpenCV](https://towardsmachinelearning.org/face-detection-using-opencv/)
@@ -85,13 +85,13 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 - [What are Boosting Algorithms and how they work](https://towardsmachinelearning.org/boosting-algorithms/)
 <!-- TowardsMachineLearning.Org:END -->
 
-#### Medium Posts:
+#### Posts on Medium:
 <!-- Medium:START -->
 - [Chi-Square Test | COVID-19](https://medium.com/@praveenkumar.kumar76/chi-square-test-covid-19-a549eddade34?source=rss-f324798a1713------2)
 <!-- Medium:END -->
 
 
-### YouTube Posts:
+### Posts on YouTube:
 <!-- YouTube:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FncHcijU6tw"><img width="140px" src="http://img.youtube.com/vi/FncHcijU6tw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FncHcijU6tw">Measuring the accuracy of the detection algorithm using IOU</a><br/>Sep 19, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=36_S0kaLNjE"><img width="140px" src="http://img.youtube.com/vi/36_S0kaLNjE/maxresdefault.jpg"></a></td>
