@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/)
+I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/)
 
 - 🔭 I’m currently working on: [LLM Projects](https://github.com/Praveen76/LLM-Projects-Archive)
 - 🌱 I’m currently learning : MLOps
