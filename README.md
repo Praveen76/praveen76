@@ -82,5 +82,4 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 <!-- Medium:START --><tr><td>Chi-Square Test | COVID-19</td><td>https://medium.com/@praveenkumar.kumar76/chi-square-test-covid-19-a549eddade34?source=rss-f324798a1713------2</td></tr><!-- Medium:END -->
 
-<!-- YouTube:START -->
-<!-- YouTube:END -->
+<!-- YouTube:START --><tr><td>Measuring the accuracy of the detection algorithm using IOU</td><td>https://www.youtube.com/watch?v=FncHcijU6tw</td></tr><tr><td>You Only Look Once Algorithm and it&#39;s history</td><td>https://www.youtube.com/watch?v=36_S0kaLNjE</td></tr><tr><td>Need of region proportion methods</td><td>https://www.youtube.com/watch?v=hH43zEAeaqs</td></tr><tr><td>Dataset, bounding box regressor, image pyramid</td><td>https://www.youtube.com/watch?v=OnnwuafZbEk</td></tr><tr><td>What we actually need for detection?</td><td>https://www.youtube.com/watch?v=xU1p_6uncG0</td></tr><!-- YouTube:END -->
