@@ -79,6 +79,11 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 #### TowardsMachineLearning.Org Posts:
 <!-- TowardsMachineLearning.Org:START -->
+- [Vector Space Models &lpar; Word2Vec Model&rpar; simplified](https://towardsmachinelearning.org/vector-space-model-word2vec-model/)
+- [Face Detection using OpenCV](https://towardsmachinelearning.org/face-detection-using-opencv/)
+- [Important Functions of OpenCV](https://towardsmachinelearning.org/important-functions-of-opencv/)
+- [OpenCV: Beginning for the Computer Vision enthusiast](https://towardsmachinelearning.org/introduction-to-opencv/)
+- [What are Boosting Algorithms and how they work](https://towardsmachinelearning.org/boosting-algorithms/)
 <!-- TowardsMachineLearning.Org:END -->
 
 #### Medium Posts:
