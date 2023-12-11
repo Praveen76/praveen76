@@ -11,7 +11,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### : 👨‍💻 About Me :
 
 ### Hi there 👋
 I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/)
@@ -24,7 +24,7 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-## :hammer_and_wrench: Languages and Tools :
+## 🛠️: Languages and Tools :
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40" />&nbsp;
@@ -57,7 +57,7 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-## :fire: My Stats :
+## 🔥: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats-new.vercel.app?user=Praveen76&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -68,7 +68,7 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### :writing_hand: Blog Posts :
+### ✍️: Blog Posts :
 
 #### Posts on Analytics Vidhya(3M+ community):
  - [Introduction to ANOVA with COVID-19 Case Study](https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/)
