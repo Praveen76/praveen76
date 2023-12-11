@@ -12,6 +12,7 @@
 ---
 
 ### :man_technologist: About Me :
+
 ### Hi there 👋
 I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/)
 
