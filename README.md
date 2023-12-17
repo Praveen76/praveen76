@@ -17,7 +17,7 @@
 I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/)
 
 - 🔭 I’m currently working on: [LLM Projects](https://github.com/Praveen76/LLM-Projects-Archive)
-- 🌱 I’m currently learning : MLOps
+- 🌱 I’m currently learning : [MLOps](https://github.com/Praveen76/MLOps-Mini-Projects)
 - 💬 Ask me about : DataScience, Machine Learning, NLP, Deep Learning, Computer Vision, LLMs, MLOps
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Praveen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 - ⚡ Fun fact:   'Why did the data scientist break up with the statistician? Because they couldn't find a common mean!' 😄"
