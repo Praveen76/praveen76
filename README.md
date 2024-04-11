@@ -19,7 +19,7 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 - 🧑‍🔬 My most recent research projects: [Patents and Publications](https://github.com/Praveen76/Patents-and-Publications)
 - 🔭 I’m currently working on: [LLM Projects](https://github.com/Praveen76/LLM-Projects-Archive)
 - 🌱 I’m currently trying to deepen my expertise in : [MLOps Projects](https://github.com/Praveen76/MLOps-Mini-Projects)
-- 🔥 Recently started my Leetcode Journey: [My Leetcode Profile](https://leetcode.com/user5712dl/)
+<!-- - 🔥 Recently started my Leetcode Journey: [My Leetcode Profile](https://leetcode.com/user5712dl/) -->
 - 💬 Ask me about : Data Science, Machine Learning, NLP, Deep Learning, Computer Vision, LLMs, MLOps
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Praveen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 - ⚡ Fun fact:   'Why did the data scientist break up with the statistician? Because they couldn't find a common mean!' 😄"
@@ -60,11 +60,11 @@ I am a seasoned Data Scientist <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ## 🔥: My Leetcode and GitHub Stats :
-
+<!--
 Leetcode Stats:
 ---
 ![Leetcode Stats](https://leetcard.jacoblin.cool/user5712dl)
-
+-->
 GitHub Stats:
 ---
 [![GitHub Streak](https://github-readme-streak-stats-new.vercel.app?user=Praveen76&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
