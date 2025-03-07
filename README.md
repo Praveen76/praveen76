@@ -102,7 +102,6 @@ GitHub Stats:
 
 ### Posts on YouTube:
 <!-- YouTube:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mZQ7m1SZq6Y"><img width="140px" src="http://img.youtube.com/vi/mZQ7m1SZq6Y/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mZQ7m1SZq6Y">Introduction</a><br/>Feb 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NjTxQSuceQQ"><img width="140px" src="http://img.youtube.com/vi/NjTxQSuceQQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NjTxQSuceQQ">IntelliLex: GenAI  powered vocabulary acquisition system using adaptive learning.</a><br/>Feb 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vLT3ZmHIzbo"><img width="140px" src="http://img.youtube.com/vi/vLT3ZmHIzbo/maxresdefault.jpg"></a></td>
