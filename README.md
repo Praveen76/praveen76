@@ -104,8 +104,6 @@ GitHub Stats:
 <!-- YouTube:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NjTxQSuceQQ"><img width="140px" src="http://img.youtube.com/vi/NjTxQSuceQQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NjTxQSuceQQ">IntelliLex: GenAI  powered vocabulary acquisition system using adaptive learning.</a><br/>Feb 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vLT3ZmHIzbo"><img width="140px" src="http://img.youtube.com/vi/vLT3ZmHIzbo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vLT3ZmHIzbo">RAG Powered Vocabulary Acquistion system through adaptive learning</a><br/>Jan 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FncHcijU6tw"><img width="140px" src="http://img.youtube.com/vi/FncHcijU6tw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FncHcijU6tw">Measuring the accuracy of the detection algorithm using IOU</a><br/>Sep 19, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=36_S0kaLNjE"><img width="140px" src="http://img.youtube.com/vi/36_S0kaLNjE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=36_S0kaLNjE">You Only Look Once Algorithm and it&#39;s history</a><br/>Sep 19, 2021</td></tr></table>
